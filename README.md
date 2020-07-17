@@ -40,5 +40,5 @@ I'm open-source development enthusiast.
 
 ### Interesting stats
 
-![Alexey's stats](https://github-readme-stats.vercel.app/api?username=devded&show_icons=true)
+![Alexey's stats](https://github-readme-stats.vercel.app/api?username=smdedar&show_icons=true)
 
